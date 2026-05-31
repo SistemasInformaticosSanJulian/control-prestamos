@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.1.3",
   "type": "module",
-  "description": "Control de prestamos",
+  "description": "Sistema de control de prestamos",
   "author": "Juan Vladimir",
   "email": "juanvladimir13@gmail.com",
   "license": "ISC",

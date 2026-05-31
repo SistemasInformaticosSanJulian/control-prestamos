@@ -1,15 +1,15 @@
 ## Proyecto Control de préstamos
 
-### Descripcion
+## Descripcion
 Se desea crear una aplicacion web para el control de gastos personales
 
-### Funcionalidades
+## Funcionalidades
 
-#### Gestion de perfil de usuario
+### Gestion de perfil de usuario
 - Atributos (nombres, apellidos, celular, correo)
 
-#### Gestion de personas
+### Gestion de personas
 - Atributos (Nombres Apellidos, Celular, Direccion)
 
-#### Gestion de prestamos
+### Gestion de prestamos
 - Atributos (Fecha, Tiempo, Penalizacion, Estado)
