@@ -1,4 +1,4 @@
-## Proyecto Control de préstamos
+# Proyecto Control de préstamos
 
 ## Descripcion
 Se desea crear una aplicacion web para el control de gastos personales
